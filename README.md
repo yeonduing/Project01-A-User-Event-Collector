@@ -7,6 +7,8 @@
 
 [Link to iOS Dev Logs](https://github.com/boostcamp-2020/Project01-A-User-Event-Collector#ios-dev-logs)
 
+<br>
+
 # **_Project introduction_**
 
 프로젝트의 목적은 **다양한 프로젝트에서 독립적으로 적용 가능한 User Event Collector 제작** 입니다. 
@@ -17,15 +19,13 @@ User Event Collector **DIVE**는 자유도 높게 설계되어 프로젝트 마�
 
 수집한 데이터는 UI/UX 개선에 중요한 데이터가 될 것입니다.
 
-<br>
-
 [Link to iOS DIVE ReadMe](https://github.com/boostcamp-2020/Project01-A-User-Event-Collector#ios-event-collector)
 
 <br>
 
 # **_Technology Stack_**
 
-![스크린샷(163)](https://user-images.githubusercontent.com/48251136/101978886-d8cf6500-3c9b-11eb-9be1-d74fd7761dcc.png)
+<img width="500" alt="Technology Stack" src="https://user-images.githubusercontent.com/48251136/101978886-d8cf6500-3c9b-11eb-9be1-d74fd7761dcc.png">
 
 <br>
 
