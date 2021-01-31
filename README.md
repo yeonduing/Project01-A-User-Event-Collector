@@ -9,28 +9,11 @@
 
 # **_Project introduction_**
 
-다양한 프로젝트에서 독립적으로 적용 가능한 ***User Event Collecto*r** 제작
+>다양한 프로젝트에서 독립적으로 적용 가능한 ***User Event Collector*** 제작
 
-> **User Event ?** UI/UX 개선 등을 위해 수집하는 Event
+프로젝트의 목적은 다양한 프로젝트에서 독립적으로 적용 가능한 User Event Collector 제작 입니다. DIVE 의 동작을 보이기 위하여 NAVER 스트리밍 서비스 VIBE를 Clone하여 이벤트를 수집했습니다. User Event Collector **DIVE**는 자유도 높게 설계되어 프로젝트 마다 복합적인 이벤트를 수집할 수 있으며, 수집한 데이터는 UI/UX 개선에 중요한 데이터가 될 것입니다.
 
-<br>
-
-### 우리의 이벤트 수집기 "**_DIVE_**"
-
-프로젝트 마다 **_의미 있는 이벤트_**는 다를 것 입니다.
-**_DIVE_**는 자유도 높게 설계되어, **_의미 있는 이벤트_**의 범주를 개발자가 정할 수 있습니다.
-
-즉, 개발자가 원한다면, 기본적으로 제공되는 이벤트 뿐만 아니라
-웹의 경우, 단일 이벤트 여러개로 이루어진 *복합 이벤트*를 수집하거나,
-앱의 경우, 앱을 종료하거나 노래를 재생하는 이벤트들을 수집할 수 있습니다.
-
-**_DIVE_**를 이용하여, 원하는 이벤트를 수집할 수 있으며,
-수집한 데이터는 UI/UX 개선에 중요한 데이터가 될 것입니다.
-
- <br>
- 
- ***DIVE***의 동작을 보이기 위하여, Naver 스트리밍 서비스 ***VIBE***를 ***Clone***하여 이벤트를 수집했습니다.
- Clone scope에서 VIBE의 추천 기능과 음원 재생 기능은 제외
+**User Event**란 UI/UX 개선 등을 위해 수집하는 Event를 말합니다. 
 
 [Link to Web DIVE ReadMe](https://github.com/boostcamp-2020/Project01-A-User-Event-Collector#web-event-collector)
 
@@ -46,7 +29,7 @@
 <br>
 <br>
 
-# Vibe Clone
+# **_Vibe Clone_**
 
 ## Today / Playlist / Magazine
 
