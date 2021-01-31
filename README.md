@@ -9,7 +9,11 @@
 
 # **_Project introduction_**
 
-프로젝트의 목적은 <span style="box-shadow: inset 0 -9px 0 #FAEDCC; font-weight: bold;">다양한 프로젝트에서 독립적으로 적용 가능한 User Event Collector 제작</span> 입니다. DIVE 의 동작을 보이기 위하여 NAVER 스트리밍 서비스 VIBE를 Clone하여 이벤트를 수집했습니다. User Event Collector **DIVE**는 자유도 높게 설계되어 프로젝트 마다 복합적인 이벤트를 수집할 수 있으며, 수집한 데이터는 UI/UX 개선에 중요한 데이터가 될 것입니다.
+프로젝트의 목적은 **다양한 프로젝트에서 독립적으로 적용 가능한 User Event Collector 제작** 입니다. 
+
+DIVE 의 동작을 보이기 위하여 NAVER 스트리밍 서비스 **VIBE를 Clone**하여 이벤트를 수집했습니다. 
+
+User Event Collector **DIVE**는 자유도 높게 설계되어 프로젝트 마다 복합적인 이벤트를 수집할 수 있으며, 수집한 데이터는 UI/UX 개선에 중요한 데이터가 될 것입니다.
 
 
 [Link to Web DIVE ReadMe](https://github.com/boostcamp-2020/Project01-A-User-Event-Collector#web-event-collector)
