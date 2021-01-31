@@ -13,7 +13,9 @@
 
 DIVE 의 동작을 보이기 위하여 NAVER 스트리밍 서비스 **VIBE를 Clone**하여 이벤트를 수집했습니다. 
 
-User Event Collector **DIVE**는 자유도 높게 설계되어 프로젝트 마다 복합적인 이벤트를 수집할 수 있으며, 수집한 데이터는 UI/UX 개선에 중요한 데이터가 될 것입니다.
+User Event Collector **DIVE**는 자유도 높게 설계되어 프로젝트 마다 복합적인 이벤트를 수집할 수 있으며, 
+
+수집한 데이터는 UI/UX 개선에 중요한 데이터가 될 것입니다.
 
 
 [Link to Web DIVE ReadMe](https://github.com/boostcamp-2020/Project01-A-User-Event-Collector#web-event-collector)
@@ -21,13 +23,11 @@ User Event Collector **DIVE**는 자유도 높게 설계되어 프로젝트 마�
 [Link to iOS DIVE ReadMe](https://github.com/boostcamp-2020/Project01-A-User-Event-Collector#ios-event-collector)
 
 <br>
-<br>
 
 # **_Technology Stack_**
 
 ![스크린샷(163)](https://user-images.githubusercontent.com/48251136/101978886-d8cf6500-3c9b-11eb-9be1-d74fd7761dcc.png)
 
-<br>
 <br>
 
 # **_Vibe Clone_**
