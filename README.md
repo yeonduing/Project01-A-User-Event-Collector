@@ -38,15 +38,11 @@
 
 <br>
 <br>
-<br>
-<br>
 
 # **_Technology Stack_**
 
 ![스크린샷(163)](https://user-images.githubusercontent.com/48251136/101978886-d8cf6500-3c9b-11eb-9be1-d74fd7761dcc.png)
 
-<br>
-<br>
 <br>
 <br>
 
