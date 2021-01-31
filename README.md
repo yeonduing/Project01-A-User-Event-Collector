@@ -17,8 +17,7 @@ User Event Collector **DIVE**는 자유도 높게 설계되어 프로젝트 마�
 
 수집한 데이터는 UI/UX 개선에 중요한 데이터가 될 것입니다.
 
-
-[Link to Web DIVE ReadMe](https://github.com/boostcamp-2020/Project01-A-User-Event-Collector#web-event-collector)
+<br>
 
 [Link to iOS DIVE ReadMe](https://github.com/boostcamp-2020/Project01-A-User-Event-Collector#ios-event-collector)
 
