@@ -1,11 +1,19 @@
 # **_Team DIVE introduction_**
 
 ![](https://i.imgur.com/zG4Nagk.png)
-| J124 | J153 | J190 | S002 | S015 |
-| ----- | ----- | ----- | ----- |----- |
-| 유선규[(sunkest)](https://github.com/sunkest) | 이유택[(lcpnine)](https://github.com/lcpnine) | 조병건[(marulloc)](https://github.com/marulloc) | 강병민[(mike123789-dev)](https://github.com/mike123789-dev) | 류연수[(yeonduing)](https://github.com/yeonduing) |
+
+## iOS
+S002 | S015 
+--- | ---
+강병민[(mike123789-dev)](https://github.com/mike123789-dev) | **류연수**[(yeonduing)](https://github.com/yeonduing)
 
 [Link to iOS Dev Logs](https://github.com/boostcamp-2020/Project01-A-User-Event-Collector#ios-dev-logs)
+
+## Web
+| J124 | J153 | J190
+| ----- | ----- | ----- 
+| 유선규[(sunkest)](https://github.com/sunkest) | 이유택[(lcpnine)](https://github.com/lcpnine) | 조병건[(marulloc)](https://github.com/marulloc)
+
 
 <br>
 
